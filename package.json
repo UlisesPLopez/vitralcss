@@ -1,6 +1,6 @@
 {
   "name": "vitralcss",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "VitralCSS - A visual micro-framework inspired by Frutiger Aero and Apple's Liquid Glass. Nature-themed panels and shapes: Water, Ice, Fog, Fire, and Glass.",
   "main": "vitralcss.min.js",
   "style": "vitralcss.min.css",
