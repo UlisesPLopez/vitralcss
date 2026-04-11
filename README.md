@@ -94,14 +94,6 @@ Wrap components with `.dark-style` for dark themes:
 </body>
 </html>
 ```
-
----
-
-## 📁 Project Structure
-
-- **Source code:** [vitralcss-dev](https://github.com/UlisesPLopez/vitralcss-dev) (private)
-- **Website & Docs:** [vitralcss-web](https://github.com/UlisesPLopez/vitralcss-web)
-
 ---
 
 ## 📄 License
